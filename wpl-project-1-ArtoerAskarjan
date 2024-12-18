@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Artoer's Website</title>
+    <link rel="stylesheet" href="mijnwebsite.css">
+
+<body>
+<nav class="navbar">
+    <ul class="Text">
+        <button>
+            <li><a href="#home">Home</a></li>
+        </button>
+            <li><a href="#social media">Social Media</a></li>
+            <li><a href="#Portfolio">Portfolio</a></li>
+            <li><a href="#Contact">Contact</a></li>
+            <li><a href="#Opleidingen">Opleidingen</a></li>
+            <li><a href="#Diploma's">Diploma's</a></li>
+
+    </ul>
+</nav>
+<div>
+    <img class="image" src="../../assets/cv_foto.jpeg" height="250" width="150"/>
+</div>
+</body>
+    <div class="text">Hallo mijn naam is <strong>Artoer Askarjan,</strong>
+        ik ben een student aan de <strong>Hogeschool PXL.</strong>
+        Ik heb deze opleiding gekozen omdat ik programmeren heel intressant vind.
+        Omdat door het programmeren kan je een websites opbouwen wat ik heel fijn vind om te doen.
+        Je leert ook codeer talen zoals C# wat ook heel intressant is. Ik vind zelf dat deze richting een goede optie is voor mij
+        omdat ik meestal het heel intressant vind om iets moeilijks bij te leren en het beheerst heb uiteindelijk.
+    </div>
+
+
+
+
+
+</head>
+</html>
