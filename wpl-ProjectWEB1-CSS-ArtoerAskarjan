@@ -1,0 +1,45 @@
+.text{
+    font-family: Arial , "sans-serif";
+    margin: auto;
+    height: 300px;
+    width: 500px;
+    text-align: left;
+
+}
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: black;
+    padding: 10px 20px;
+}
+
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar li{
+    margin: 0 15px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px ;
+}
+.navbar a:hover {
+    color: green;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    border-radius: 50%;
+    object-fit: cover;
+}
